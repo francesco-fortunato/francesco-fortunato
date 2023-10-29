@@ -2,11 +2,11 @@
 
 🎓 I'm a Master's student pursuing my degree in Engineering in Computer Science @ [Sapienza Università di Roma](https://www.uniroma1.it/).
 
-👨‍💻 My journey in computer science began with a Bachelor's degree in Computer Engineering and Automation from Sapienza.
+👨‍💻 My journey in computer science began with a Bachelor's degree in Computer and Automation Engineering from Sapienza.
 
-🚀 I'm passionate about Internet of Things (IoT), software development, machine learning, and artificial intelligence. I love building things and solving problems with code.
+🚀 I'm passionate about Internet of Things (IoT), telecommunications, software development, machine learning, and artificial intelligence. I love building things and solving problems with code.
 
-💼 Currently, I'm focused on honing my skills, working on exciting projects, and learning new technologies.
+💼 Currently, I'm focused on honing my skills, working on my projects, and learning new technologies.
 
 ## My Projects 🚀
 
