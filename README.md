@@ -1,12 +1,8 @@
 # About Me 👋
 
-🎓 I'm a Master's student pursuing my degree in Engineering in Computer Science @ [Sapienza Università di Roma](https://www.uniroma1.it/).
-
-👨‍💻 My journey in computer science began with a Bachelor's degree in Computer and Automation Engineering from Sapienza.
+🎓 Dottore Magistrale (Master of Science) in Engineering in Computer Science @ [Sapienza Università di Roma](https://www.uniroma1.it/).
 
 🚀 I'm passionate about Internet of Things (IoT), telecommunications, software development, machine learning, and artificial intelligence. I love building things and solving problems with code.
-
-💼 Currently, I'm focused on honing my skills, working on my projects, and learning new technologies.
 
 ## My Projects 🚀
 
@@ -21,4 +17,4 @@ Here are some of my last projects:
 
 🌐 You can find me on [LinkedIn](https://www.linkedin.com/in/francesco-fortunato-a68094181/).
 
-📧 Feel free to reach out to me via email at [francesco.fortunato1999@gmail.com](mailto:francesco.fortunato1999@gmail.com).
+📧 Feel free to email me at [francesco.fortunato1999@gmail.com](mailto:francesco.fortunato1999@gmail.com).
